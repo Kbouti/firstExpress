@@ -12,3 +12,6 @@ app.get("/", (req, res) => {
 app.listen(port, () => {
     console.log(`Example app listening on port: ${port}!`);
 });
+
+// Next we can start the server by calling node index.js
+// When we do this we get our message logged to the console, and our page visible at: http://localhost:3000/
