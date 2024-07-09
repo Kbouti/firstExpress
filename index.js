@@ -32,3 +32,6 @@
 // I believe this is essentially what I'm supposed to do for the assignment. 
 // It does't quite seem right tho because it doesn't seem easy or well organized? Idk....
 // I think i should have initiated hello world in the parent directory. I think I made a Express app in a node app?
+
+
+// Attempted to deploy local library on glitch -7/8

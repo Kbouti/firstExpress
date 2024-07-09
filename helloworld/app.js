@@ -39,3 +39,8 @@ app.use(function(err, req, res, next) {
 });
 
 module.exports = app;
+
+// Mongoose acts as a front end for mongodb databse. 
+// Mongoose is an ORM (or ODM?) Object Relational Mapper
+
+// In mongo a collection of documents is analogous to a table of rows in a relational database
